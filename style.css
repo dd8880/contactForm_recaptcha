@@ -1,0 +1,47 @@
+body {
+  font-family:"Open Sans", Helvetica, Arial, sans-serif;
+  font-weight:300;
+  font-size: 12px;
+  line-height:30px;
+ color: #000;;
+ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 100%);
+}
+
+.container {
+  max-width: 100px;
+  height: 50px;
+  width:100px;
+ padding-top: 3rem; 
+ margin:0 auto;
+
+ 
+}
+
+
+
+h2 {
+  color: lawngreen;
+  display: block;
+  font-size: 40px; 
+  font-weight: 400;
+}
+
+h3 {
+  margin:5px 0 15px;
+  display:block;
+  font-size:20px;
+  color: orange;
+}
+
+.img {
+    height: 37.5rem;
+    width: 37.5rem ;
+ 
+    
+}
+
+
+.fields {
+    color: orchid;
+    
+}
